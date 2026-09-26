@@ -1,0 +1,3 @@
+- [ ] Recreate supplied Sesmiopod look with seamless, reduced-motion-aware animation.
+- [ ] Build live weather, recent earthquake, and scenario simulator with clear alert labeling.
+- [ ] Explain the proposed device components and verify desktop/mobile experience.
